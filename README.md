@@ -1,16 +1,13 @@
-# chat_app
+# Talky-chat-app
 
-A new Flutter project.
+Talky is a simple straightforward chat application developed using Flutter and Firebase, allowing users to engage in real-time conversations.
 
-## Getting Started
+# Features 
 
-This project is a starting point for a Flutter application.
+User Authentication: Sign up, log in, and log out securely using Firebase Authentication.
 
-A few resources to get you started if this is your first Flutter project:
+Real-Time Chat: Engage in real-time conversations with other users.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Screenshots 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
